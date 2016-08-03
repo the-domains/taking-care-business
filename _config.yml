@@ -1,0 +1,28 @@
+name: Taking Care Business
+favicon: null
+layout_spectrum: 0.3084893231280148
+typography_spectrum: 0.1903073312714696
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.05609696474857628
+  lightness: 0.37865123921073973
+  saturation: 0.018157515907660127
+  rhythmicContrast: 0.2170665862504393
+purpose: []
